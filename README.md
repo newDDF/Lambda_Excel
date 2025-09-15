@@ -24,6 +24,9 @@ New functions with different functions are defined through the lambda function t
 # REPTITM
 <img width="520" height="105" alt="image" src="https://github.com/user-attachments/assets/bb70d3e6-1fc4-4507-937b-4a2b4d29a2bc" />
 
+# REPTATOMARRAY
+<img width="449" height="152" alt="image" src="https://github.com/user-attachments/assets/211804bb-d108-4a67-97be-60f18af34290" />
+
 # DATEARRAY
 <img width="956" height="152" alt="image" src="https://github.com/user-attachments/assets/c4e2a651-438f-4e7a-a148-e31ae46e8d9d" />
 
