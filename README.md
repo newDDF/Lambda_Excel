@@ -24,3 +24,14 @@ New functions with different functions are defined through the lambda function t
 # REPTITM
 <img width="520" height="105" alt="image" src="https://github.com/user-attachments/assets/bb70d3e6-1fc4-4507-937b-4a2b4d29a2bc" />
 
+# DATEARRAY
+<img width="956" height="152" alt="image" src="https://github.com/user-attachments/assets/c4e2a651-438f-4e7a-a148-e31ae46e8d9d" />
+
+# REPT_INFO
+<img width="668" height="209" alt="image" src="https://github.com/user-attachments/assets/4decf800-a9bc-440e-b750-418753d6db4d" />
+
+# VENN
+<img width="773" height="168" alt="image" src="https://github.com/user-attachments/assets/56fe53b1-5478-49b4-acc7-f740347bad5f" />
+
+# MAKEAVEROW
+<img width="508" height="145" alt="image" src="https://github.com/user-attachments/assets/ea84afe6-650e-4dae-84f5-135e25c25286" />
