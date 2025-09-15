@@ -1,0 +1,1 @@
+JUMP=LAMBDA(orig,goal,dev,LET(o,orig,g,goal,d,dev,IF(SCAN(1,o,LAMBDA(x,y,OR(INDEX(y,COUNTA(y))=g))),0,o)+IF(SCAN(1,o,LAMBDA(x,y,OR(INDEX(y,COUNTA(y))=g))),o,0)+IFERROR(XLOOKUP(IF(SCAN(1,o,LAMBDA(x,y,OR(INDEX(y,COUNTA(y))=g))),o,0),g,d),0)))
