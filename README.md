@@ -38,3 +38,7 @@ New functions with different functions are defined through the lambda function t
 
 # [MAKEAVEROW](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/MAKEAVEROW.html)
 <img width="508" height="145" alt="image" src="https://github.com/user-attachments/assets/ea84afe6-650e-4dae-84f5-135e25c25286" />
+
+# [DROPTEXT](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/DROPTEXT.html)
+<img width="390" height="83" alt="image" src="https://github.com/user-attachments/assets/26d81747-5074-4127-94f8-f9fb5dfcae8d" />
+
