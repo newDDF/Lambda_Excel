@@ -42,3 +42,6 @@ New functions with different functions are defined through the lambda function t
 # [DROPTEXT](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/DROPTEXT.html)
 <img width="390" height="83" alt="image" src="https://github.com/user-attachments/assets/26d81747-5074-4127-94f8-f9fb5dfcae8d" />
 
+# [ODDS](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/ODDS.html)
+<img width="386" height="147" alt="image" src="https://github.com/user-attachments/assets/83072c6b-78a1-4fd8-9548-662527b6b2c4" />
+
