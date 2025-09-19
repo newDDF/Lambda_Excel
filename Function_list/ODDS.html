@@ -1,0 +1,2 @@
+ODDS=LAMBDA(S,P,IF(SUM(P)<>1,"Error#The total probability is not equal to 1!",INDEX(REPTATOMARRAY(S,P*(1&REPT(0,MAX(LEN(P)-FIND(".",P))))*1),RANDBETWEEN(1,SUM(P*(1&REPT(0,MAX(LEN(P)-FIND(".",P))))*1)))))
+REPTATOMARRAY=LAMBDA(x,y,TOCOL(TEXTSPLIT(SUBSTITUTE(ARRAYTOTEXT(LEFT(REPT(x&",",y),LEN(REPT(x&",",y))-1))," ",""),",")))
