@@ -47,3 +47,6 @@ New functions with different functions are defined through the lambda function t
 
 # [DURATION](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/DURATION.html)
 <img width="386" height="105" alt="image" src="https://github.com/user-attachments/assets/0735e5bc-ac9b-4dbd-bc21-9214e918f058" />
+
+# [RANDSPLITONE](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/RANDSPLITONE.html)
+<img width="385" height="125" alt="image" src="https://github.com/user-attachments/assets/ea4a34e2-08f4-4de6-b886-4227874f3733" />
