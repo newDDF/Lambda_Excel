@@ -50,3 +50,6 @@ New functions with different functions are defined through the lambda function t
 
 # [RANDSPLITONE](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/RANDSPLITONE.html)
 <img width="385" height="125" alt="image" src="https://github.com/user-attachments/assets/ea4a34e2-08f4-4de6-b886-4227874f3733" />
+
+# [QRSERVER](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/QRSERVER.html)
+<img width="390" height="127" alt="image" src="https://github.com/user-attachments/assets/ab6fb624-8272-4efe-bbf0-ec0ab537e570" />
