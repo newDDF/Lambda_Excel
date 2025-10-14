@@ -53,3 +53,6 @@ New functions with different functions are defined through the lambda function t
 
 # [QRSERVER](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/QRSERVER.html)
 <img width="390" height="127" alt="image" src="https://github.com/user-attachments/assets/ab6fb624-8272-4efe-bbf0-ec0ab537e570" />
+
+# [BARCODE](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/BARCODE.html)
+<img width="936" height="142" alt="image" src="https://github.com/user-attachments/assets/9817e5f4-c9f5-436a-8ce8-ef79a6e9e060" />
