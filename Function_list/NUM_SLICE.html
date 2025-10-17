@@ -1,0 +1,1 @@
+NUM_SLICE=LAMBDA(num,group,LET(n,num,g,group,FILTER(VSTACK(IF(SCAN(n,g,LAMBDA(x,y,x-y))>=0,g,0),n-SUM(IF(SCAN(n,g,LAMBDA(x,y,x-y))>=0,g,0))),VSTACK(IF(SCAN(n,g,LAMBDA(x,y,x-y))>=0,g,0),n-SUM(IF(SCAN(n,g,LAMBDA(x,y,x-y))>=0,g,0)))<>0)))
