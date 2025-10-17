@@ -56,3 +56,6 @@ New functions with different functions are defined through the lambda function t
 
 # [BARCODE](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/BARCODE.html)
 <img width="936" height="142" alt="image" src="https://github.com/user-attachments/assets/9817e5f4-c9f5-436a-8ce8-ef79a6e9e060" />
+
+# [NUM_SLICE](https://github.com/newDDF/Lambda_Excel/blob/main/Function_list/NUM_SLICE.html)
+<img width="386" height="125" alt="image" src="https://github.com/user-attachments/assets/2a22869b-cdc0-4fe2-90a7-d94472c8fcca" />
